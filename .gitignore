@@ -1,0 +1,6 @@
+node_modules
+cypress/screenshots
+report.json
+HTMLReport
+mochawesome-report
+cypress.env.json
